@@ -12,7 +12,7 @@ Best of luck!
 
 
 ## Printing Instructions:
-These prints have been able to print on printers including printers from Bambu Lab, Prusia, Creality, and VORON Design with 10% infill for PLA and 15% infill for PETG. Only the Nine Men's Morris board may requier supports. 
+These prints have been able to print on printers including printers from Bambu Lab, Prusia, Creality, and VORON Design with 10% infill for PLA and 15% infill for PETG. Only the Nine Men's Morris board may require supports. 
 
 ### For 1 Nine Men's Morris Set: 
 * 1 board
