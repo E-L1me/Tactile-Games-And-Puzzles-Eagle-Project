@@ -3,7 +3,7 @@ My Eagle Project comprises designing, producing, and delivering tactile activiti
 
 Here are three different game models and instructions instructions. The games with the instructions were selected by the Vista Center to manufactured (5 of each) and delivered.
 
-All of the models were designed to be tactile, fit within a common ~8-10" printbed, require no supports. The models were designed on Onshape. Please contact me via GitHub if you print any! :)
+All of the models were designed to be tactile, fit within a common ~8-10" printbed, and require no supports. The models were designed on Onshape. Please contact me via GitHub if you print any! :)
 
 Best of luck!
 
