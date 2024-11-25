@@ -3,7 +3,7 @@ My Eagle Project comprises designing, producing, and delivering tactile activiti
 
 Here are three different game models and instructions instructions. The games with the instructions were selected by the Vista Center to manufactured (5 of each) and delivered.
 
-All of the models were designed to be tactile, fit within a common ~8-10" printbed, and require nearly no supports. The models were designed on Onshape. Please contact me via GitHub if you print any! :)
+All of the models were designed to be tactile, fit within a common ~8-10" printbed, require no supports. The models were designed on Onshape. Please contact me via GitHub if you print any! :)
 
 Best of luck!
 
@@ -12,7 +12,7 @@ Best of luck!
 
 
 ## Printing Instructions:
-These prints have been able to print on printers including printers from Bambu Lab, Prusia, Creality, and VORON Design with 10% infill for PLA and 15% infill for PETG. Only the Nine Men's Morris board may require supports. 
+These prints have been able to print on printers including printers from Bambu Lab, Prusia, Creality, and VORON Design with 10% infill for PLA and 15% infill for PETG. 
 
 ### For 1 Nine Men's Morris Set: 
 * 1 board
