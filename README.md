@@ -1,7 +1,7 @@
 # Tactile-Games-And-Puzzles-Eagle-Project
 My Eagle Project comprises designing, producing, and delivering tactile activities for the Vista Center for the Blind and Visually Impaired. This repo contains the CAD files and instructions (written and recorded). 
 
-Here are three different game desings which have instructions. The games with the instructions were selected by the Vista Center to manufactured (5 of each) and delivered.
+Here are three different game models and instructions instructions. The games with the instructions were selected by the Vista Center to manufactured (5 of each) and delivered.
 
 All of the models were designed to be tactile, fit within a common ~8-10" printbed, and require nearly no supports. The models were designed on Onshape. Please contact me via GitHub if you print any! :)
 
