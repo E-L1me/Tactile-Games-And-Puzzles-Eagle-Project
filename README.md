@@ -11,23 +11,23 @@ Best of luck!
 
 
 
-##Printing Instructions:
+## Printing Instructions:
 These prints have been able to print on printers including printers from Bambu Lab, Prusia, Creality, and VORON Design printers with 10% infill for PLA and 15% infill for PETG. Only the Nine Men's Morris board may requier supports. 
 
-###For 1 Nine Men's Morris Set: 
+### For 1 Nine Men's Morris Set: 
 * 1 board
 * 1 box
 * 9 clover pieces
 * 9 square pieces
 * no assembly required
 
-###For 1 Tactile Puzzle Set:
+### For 1 Tactile Puzzle Set:
 * 1 of each of the 36 unique tiles
 * 1 tray
 * 1 solution piece
 * no assembly required
 
-###For 1 Towers of Hanoi Set: 
+### For 1 Towers of Hanoi Set: 
 * 1 base piece 1
 * 1 base piece 2
 * 1 base piece 3
