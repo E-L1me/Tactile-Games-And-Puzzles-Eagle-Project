@@ -36,3 +36,5 @@ These prints have been able to print on printers including printers from Bambu L
 * assembly: base piece 1 and 2 are pushed together creating a dovetail joint; base piece 3 is forced through the hole on the side of the dovtail to secure it in place; the rods are pushed through the holes in the base untill the smooth side is flush with the surface; see the assembly.
 
 Please contact me via github for versions with different clearences or comments on the designs! Also please send a message if you print any of these!
+
+Tactile-Games-And-Puzzles-Eagle-Project © 2024 by Emile Freeman is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
