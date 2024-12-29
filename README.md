@@ -1,5 +1,5 @@
 # Tactile-Games-And-Puzzles-Eagle-Project
-My Eagle Project comprises designing, producing, and delivering tactile activities for the Vista Center for the Blind and Visually Impaired. This repo contains the CAD files and instructions (written and recorded). 
+My Eagle Project comprises designing, producing, and delivering tactile activities for the Vista Center for the Blind and Visually Impaired. This repo contains the CAD files and instructions (written). 
 
 Here are three different game models and instructions instructions. The games with the instructions were selected by the Vista Center to manufactured (5 of each) and delivered.
 
